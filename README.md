@@ -4,3 +4,4 @@
 
 * Comando gut push
 * Comando git pull
+* Comando git fetch
